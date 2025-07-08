@@ -19,6 +19,10 @@ This project is a simple registration system built with HTML, CSS, and JavaScrip
 - `style.css` - Stylesheet
 - `script.js` - JavaScript logic
 
+## Live
+
+You can try the live demo here: [https://register-system-html-css-script.vercel.app/](https://register-system-html-css-script.vercel.app/)
+
 ## Screenshot
 
 ![alt text](image.png)
